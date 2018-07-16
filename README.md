@@ -15,9 +15,8 @@ It include following features
 ~ A beautifull comment section 
 
 
-/**
- * NOTE:: this blog cms is under development . Many features are yet to be build .
- */
+
+  <p style="background-color:yellow">NOTE:: this blog cms is under development . Many features are yet to be build </p>
  
  Following are the features under development 
  
